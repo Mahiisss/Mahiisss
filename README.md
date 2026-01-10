@@ -1,4 +1,4 @@
-👋 Hi, I'm Mahi Soni
+👋 Hi, I'm Mahi 
 
 I’m an AI/ML enthusiast and frontend developer with strong foundations in Data Structures & Algorithms and hands-on experience building real-world projects.
 
