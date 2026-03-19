@@ -1,19 +1,21 @@
 # Hey, I'm Mahi 👋
 
-I build backend systems, experiment with AI/ML, and enjoy turning ideas into real working products.
+I build **scalable backend systems** and **AI/ML-powered applications**, turning ideas into real-world products.
+
+⚡ Focused on building practical systems, not just learning concepts
 
 ---
 
-## ⚡ What I’m into
+## 🚀 What I build & explore
 
 * Backend systems & scalable APIs
 * AI / Machine Learning / NLP
 * Data engineering & analytics
-* Building practical, real-world projects
+* Real-world, production-oriented projects
 
 ---
 
-## 🧠 Tech I use
+## 🧠 Tech Stack
 
 **Languages**
 `Python` `JavaScript` `TypeScript` `SQL`
@@ -24,30 +26,30 @@ I build backend systems, experiment with AI/ML, and enjoy turning ideas into rea
 **AI / ML**
 `BERT` `Hugging Face` `FAISS` `Whisper` `BART`
 
-**Tools**
-`Streamlit` `Power BI`
+**Deployment & Tools**
+`Render` `Streamlit` `Power BI` `Postman`
 
 ---
 
-## 🚀 Things I’ve built
+## 🚀 Featured Projects
 
 🔹 **[Trade Opportunities API](https://github.com/Mahiisss/Trade-Opportunities-API)**
-→ Backend service that generates structured market insights
+→ Generates structured market insights including trends, risks, and future outlook
 
 🔹 **[MAHI AI Agent (Document Analyzer)](https://github.com/Mahiisss/MAHI_AI_Agent_Streamlit)**
-→ AI-powered semantic search over documents using embeddings
+→ Semantic search system using embeddings + FAISS for intelligent document retrieval
 
 🔹 **[YouTube Sentiment Analyzer](https://github.com/Mahiisss/Sentiment-Analysis)**
-→ BERT-based NLP model to analyze user sentiment
+→ Transformer-based NLP model (BERT) for analyzing real-world user sentiment
 
 🔹 **[Offline Video Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)**
-→ Whisper + BART pipeline for summarizing long videos
+→ End-to-end pipeline using Whisper + BART for summarizing long-form content
 
 🔹 **[Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api)**
-→ Full backend system with auth, posts, follows & feeds
+→ Scalable backend with authentication, feeds, and optimized database design
 
 🔹 **[AI Workflow Pipeline Builder](https://github.com/Mahiisss/Ai-Workflow-Pipeline-Builder)**
-→ DAG-based system to manage ML workflows
+→ DAG-based system for designing and executing ML workflows
 
 ---
 
@@ -61,7 +63,7 @@ I build backend systems, experiment with AI/ML, and enjoy turning ideas into rea
 
 ## 🌱 Currently
 
-Learning more about **scalable backend systems + applied AI/ML in production**
+Exploring how to **scale backend systems and deploy AI/ML applications in production environments**
 
 ---
 
@@ -72,4 +74,4 @@ Learning more about **scalable backend systems + applied AI/ML in production**
 
 ---
 
-✨ building • learning • improving
+✨ building systems • learning deeply • improving consistently
