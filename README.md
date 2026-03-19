@@ -1,16 +1,68 @@
-👋 Hi, I'm Mahi 
+# Hey, I'm Mahi 👋
 
-I’m an AI/ML enthusiast and frontend developer with strong foundations in Data Structures & Algorithms and hands-on experience building real-world projects.
+I build backend systems, experiment with AI/ML, and enjoy turning ideas into real working products.
 
-💻 Tech stack: Python, React, Machine Learning, NLP, JavaScript
+---
 
-🧠 Comfortable with DSA, problem-solving, and system-level thinking
+## ⚡ What I’m into
 
-🚀 Currently building AI-powered web applications and ML projects
+* Backend systems & scalable APIs
+* AI / Machine Learning / NLP
+* Data engineering & analytics
+* Building practical, real-world projects
 
-🤝 Open to collaborations on AI/ML and Full-Stack development
+---
 
-<!---
-Mahiisss/Mahiisss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 Tech I use
+
+`Python` `JavaScript` `TypeScript` `SQL`
+`FastAPI` `Node.js` `Express`
+`BERT` `Hugging Face` `FAISS` `Whisper` `BART`
+`Streamlit` `Power BI`
+
+---
+
+## 🚀 Things I’ve built
+
+🔹 **Trade Opportunities API**
+→ Backend service that generates structured market insights
+
+🔹 **MAHI AI Agent (Document Analyzer)**
+→ AI-powered semantic search over documents using embeddings
+
+🔹 **YouTube Sentiment Analyzer**
+→ BERT-based NLP model to analyze user sentiment
+
+🔹 **Offline Video Summarizer**
+→ Whisper + BART pipeline for summarizing long videos
+
+🔹 **Social Media Backend API**
+→ Full backend system with auth, posts, follows & feeds
+
+🔹 **AI Workflow Pipeline Builder**
+→ DAG-based system to manage ML workflows
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Mahiisss\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌱 Currently
+
+Learning more about **scalable backend systems + applied AI/ML in production**
+
+---
+
+## 📫 Reach out
+
+📧 Email: [mahiiss4455@gmail.com](mailto:mahiiss4455@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/mahisoni45
+
+---
+
+✨ building • learning • improving
