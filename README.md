@@ -15,31 +15,38 @@ I build backend systems, experiment with AI/ML, and enjoy turning ideas into rea
 
 ## 🧠 Tech I use
 
+**Languages**
 `Python` `JavaScript` `TypeScript` `SQL`
+
+**Backend**
 `FastAPI` `Node.js` `Express`
+
+**AI / ML**
 `BERT` `Hugging Face` `FAISS` `Whisper` `BART`
+
+**Tools**
 `Streamlit` `Power BI`
 
 ---
 
 ## 🚀 Things I’ve built
 
-🔹 **Trade Opportunities API**
+🔹 **[Trade Opportunities API](https://github.com/Mahiisss/Trade-Opportunities-API)**
 → Backend service that generates structured market insights
 
-🔹 **MAHI AI Agent (Document Analyzer)**
+🔹 **[MAHI AI Agent (Document Analyzer)](https://github.com/Mahiisss/MAHI_AI_Agent_Streamlit)**
 → AI-powered semantic search over documents using embeddings
 
-🔹 **YouTube Sentiment Analyzer**
+🔹 **[YouTube Sentiment Analyzer](https://github.com/Mahiisss/Sentiment-Analysis)**
 → BERT-based NLP model to analyze user sentiment
 
-🔹 **Offline Video Summarizer**
+🔹 **[Offline Video Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)**
 → Whisper + BART pipeline for summarizing long videos
 
-🔹 **Social Media Backend API**
+🔹 **[Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api)**
 → Full backend system with auth, posts, follows & feeds
 
-🔹 **AI Workflow Pipeline Builder**
+🔹 **[AI Workflow Pipeline Builder](https://github.com/Mahiisss/Ai-Workflow-Pipeline-Builder)**
 → DAG-based system to manage ML workflows
 
 ---
