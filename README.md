@@ -42,10 +42,6 @@ Render · Streamlit · Power BI · Postman
 
 DAG-based workflow engine with validation using Kahn’s Algorithm, execution engine, real-time logging, and webhook triggers (n8n).
 
-### 🔹 Task Automation API
-
-Event-driven backend system supporting task chaining, parallel execution (asyncio), scheduling, retry mechanisms, and monitoring.
-
 ### 🔹 MAHI AI Agent (Document Analyzer)
 
 Semantic search system using embeddings + FAISS for intelligent document retrieval.
