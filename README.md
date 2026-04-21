@@ -47,7 +47,7 @@ Visual DAG workflow builder with Kahn's Algorithm cycle detection and a node-by-
 
 ---
 
-### [KristalBall — Military Asset Management](https://github.com/Mahiisss/military-asset-management) &nbsp;`TypeScript` `JavaScript`
+### [Military Asset Management](https://github.com/Mahiisss/military-asset-management) &nbsp;`TypeScript` `JavaScript`
 Full-stack logistics system for tracking assets (vehicles, weapons, ammunition) across military bases. Real-time inventory via strict formula. JWT-based RBAC with Admin, Commander, and Logistics Officer roles. Deployed on Render + Vercel.
 
 ```
