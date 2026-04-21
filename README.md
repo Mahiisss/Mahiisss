@@ -4,10 +4,10 @@
 
 # Mahi
 
-**Backend Engineer &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Systems Thinker**
+**Backend Engineer · Data Scientist · Systems Thinker**
 
-*Building the infrastructure that makes data useful —*
-*pipelines that execute reliably, models that don't hallucinate.*
+*Building the infrastructure that makes data useful.*
+*Pipelines that execute reliably, models that don't hallucinate.*
 
 <br>
 
@@ -28,17 +28,13 @@
 
 <br>
 
----
-
 ## Who I Am
 
-My focus is **backend depth and data intelligence** — systems that have clear execution logic, traceable data flow, and defined failure modes, with machine learning and analytics built in where they actually add value.
+My focus is **backend depth and data intelligence.** Systems with clear execution logic, traceable data flow, and defined failure modes, with machine learning and analytics built in where they actually add value.
 
-I've shipped a multi-agent RAG system with zero hallucination tolerance, a visual DAG-based pipeline orchestrator, NLP models for sentiment analysis, and analytics dashboards over structured business data. The through-line: I care about how data moves, transforms, and surfaces insight — whether through an API, a model, or a visualization.
+I have shipped a multi-agent RAG system with zero hallucination tolerance, a visual DAG-based pipeline orchestrator, NLP models for sentiment analysis, and analytics dashboards over structured business data. The through-line: I care about how data moves, transforms, and surfaces insight whether through an API, a model, or a visualization.
 
 > Currently exploring **distributed workflow orchestration** and **production ML deployment**.
-
----
 
 ## Skill Domains
 
@@ -52,8 +48,6 @@ I've shipped a multi-agent RAG system with zero hallucination tolerance, a visua
 | TypeScript · SQL | Sentence Transformers | Power BI · DAX | RBAC · JWT |
 
 </div>
-
----
 
 ## Featured Projects
 
@@ -85,7 +79,7 @@ Visual DAG workflow builder with Kahn's Algorithm cycle detection. Node-by-node 
 <tr>
 <td width="50%" valign="top">
 
-### 🔹 [KristalBall — Military Asset Mgmt](https://github.com/Mahiisss/military-asset-management)
+### 🔹 [KristalBall · Military Asset Management](https://github.com/Mahiisss/military-asset-management)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
@@ -96,44 +90,37 @@ Full-stack logistics system for tracking assets across bases. Real-time inventor
 </td>
 <td width="50%" valign="top">
 
-### 🔹 [Bazario Support AI — Support](https://github.com/Mahiisss/bazario-support-ai)
+### 🔹 [YouTube Sentiment Analyzer](https://github.com/Mahiisss/Sentiment-Analysis)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Multi-agent customer support system built with zero hallucination tolerance. Triage → Policy Retrieval → Resolution → Compliance → Escalation. Full citation trail per response.
+Transformer-based NLP pipeline using BERT for sentiment classification on YouTube comment data. Covers the full ML workflow from data ingestion through model inference and evaluation.
 
-`CrewAI` `FAISS` `Groq` `Flask REST API`
+`BERT` `HuggingFace` `Scikit-learn` `Pandas` `Jupyter`
 
 </td>
 </tr>
 </table>
 
----
-
 ## More Projects
 
 | Project | Stack | What It Does |
 |---|---|---|
-| **YouTube Sentiment Analyzer** | BERT · Transformers · Scikit-learn | Full NLP pipeline — raw comment data to BERT-based sentiment classification |
-| **Superstore Analytics Dashboard** | Power BI · SQL · DAX | KPI tracking, regional performance, sales trend analysis over retail data |
-| **MAHI AI Agent** | FAISS · Embeddings · Streamlit | Semantic PDF retrieval — regex + vector similarity hybrid |
+| **Superstore Analytics Dashboard** | Power BI · SQL · DAX | KPI tracking, regional performance, and sales trend analysis over retail data |
+| **MAHI AI Agent** | FAISS · Embeddings · Streamlit | Semantic PDF retrieval using regex + vector similarity hybrid |
 | **Offline Video Summarizer** | Whisper · BART | Transcription + summarization pipeline, fully offline |
-| **Task Automation API** | asyncio · FastAPI | Event-driven backend — task chaining, parallel execution, retry logic |
+| **Task Automation API** | asyncio · FastAPI | Event-driven backend with task chaining, parallel execution, retry logic |
 | **Social Media Backend API** | TypeScript · Express · SQLite | Auth, feed system, and optimized relational DB design |
-
----
 
 ## Engineering Principles
 
 ```
 01  Data flow should be explicit and traceable end to end
-02  Failure modes are designed, not discovered in production  
+02  Failure modes are designed, not discovered in production
 03  ML belongs inside the pipeline, not bolted on after
 04  Every model output that reaches a user should be verifiable
-05  Async where it matters — sync where it's clearer
+05  Async where it matters, sync where it is clearer
 06  Build for the edge case, not just the happy path
 ```
-
----
 
 ## GitHub Stats
 
@@ -148,8 +135,6 @@ Multi-agent customer support system built with zero hallucination tolerance. Tri
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mahiisss&theme=tokyonight&hide_border=true&background=0d1117&ring=4a7c59&fire=4a7c59&currStreakLabel=4a7c59" height="150" />
 
 </div>
-
----
 
 <div align="center">
 
