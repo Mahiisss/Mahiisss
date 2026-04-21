@@ -8,7 +8,7 @@
 
 **Backend Engineer · Data Scientist · Systems Thinker**
 
-*"I build the infrastructure that makes data useful — pipelines that execute reliably, models that don't hallucinate, and dashboards that surface what actually matters."*
+*"I build the infrastructure that makes data useful pipelines that execute reliably, models that don't hallucinate, and dashboards that surface what actually matters."*
 
 [![Email](https://img.shields.io/badge/mahiiss4455%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:mahiiss4455@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/mahisoni45-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahisoni45)
