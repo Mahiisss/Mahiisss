@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -69,26 +68,6 @@ Stock = Purchased + Transferred In − Transferred Out − Assigned − Expended
 | **Offline Video Summarizer** | Whisper · BART · Python | Transcription + abstractive summarization pipeline, fully offline, no API dependency |
 | **Task Automation API** | asyncio · FastAPI | Event-driven backend with task chaining, parallel execution, scheduling, and retry logic |
 | **Social Media Backend API** | TypeScript · Express · SQLite | Auth system, optimized feed design, and relational database modeling |
-
----
-
-## Data Science Focus
-
-Data science isn't a separate track — it's embedded in the systems I build. NLP powers retrieval layers. ML models live inside production pipelines. Analytics surfaces what the backend collects.
-
-```
-NLP & Text        →  BERT · Sentence Transformers · BART · Whisper
-                     semantic search · embedding pipelines · abstractive summarization
-
-ML Modeling       →  Scikit-learn · classification · regression
-                     model evaluation · Pydantic-validated inference
-
-Analytics & BI    →  Power BI · DAX · SQL modeling
-                     KPI dashboards · retail & business data
-
-Data Engineering  →  Pandas · NumPy · chunking strategies
-                     FAISS vector indexing · data pipelines
-```
 
 ---
 
