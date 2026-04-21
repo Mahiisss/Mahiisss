@@ -1,104 +1,138 @@
-# 👋 Hey, I'm Mahi
+<div align="center">
 
-**Backend-focused engineer** building scalable systems, workflow engines, and AI-powered applications.
+```
+╔══════════════════════════════════════════════════════╗
+║           Hey, I'm Mahi  ·  github.com/Mahiisss      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-I design **real-world systems**  handling data flow, execution logic, and automation with reliability and performance in mind.
+**Backend-focused engineer building scalable systems, workflow engines, and AI-powered applications.**  
+Turning complex data flows into reliable, performant backend infrastructure.
 
-> Turning complex workflows into scalable backend systems ⚙️
+[![Email](https://img.shields.io/badge/mahiiss4455%40gmail.com-black?style=flat-square&logo=gmail)](mailto:mahiiss4455@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/mahisoni45-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahisoni45)
+![Status](https://img.shields.io/badge/status-open%20to%20collaborate-22c55e?style=flat-square)
+
+</div>
 
 ---
 
-## ⚡ What I Do
+## ⚙️ What I Build
 
-* Build **scalable backend systems & REST APIs**
-* Design **workflow orchestration & automation engines**
-* Develop **AI/ML-powered applications (NLP, embeddings)**
-* Work on **event-driven systems & data pipelines**
+```
+backend systems  ─────  REST APIs  ─────  workflow engines
+AI/ML pipelines  ─────  event-driven architecture
+data pipelines   ─────  automation systems
+```
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages**
-Python · JavaScript · TypeScript · SQL · C++
-
-**Backend & Systems**
-FastAPI · Node.js · Express · REST APIs
-
-**AI / ML**
-BERT · Hugging Face · FAISS · Whisper · BART
-
-**Automation & Workflows**
-n8n · Webhooks · Event-driven systems
-
-**Tools & Deployment**
-Render · Streamlit · Power BI · Postman
+| Domain | Tools |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · SQL · C++ |
+| **Backend** | FastAPI · Node.js · Express · REST APIs |
+| **AI / ML** | BERT · Hugging Face · FAISS · Whisper · BART |
+| **Automation** | n8n · Webhooks · Event-driven systems · asyncio |
+| **Tools** | Render · Streamlit · Power BI · Postman |
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### 🔹 AI Workflow Pipeline Orchestrator
+<table>
+<tr>
+<td width="50%">
 
-DAG-based workflow engine with validation (Kahn’s Algorithm), execution engine, real-time logging, and webhook triggers (n8n).
+**[01] AI Pipeline Orchestrator**  
+`DAG` `Kahn's Algorithm` `Webhooks`  
+DAG-based workflow engine with validation, execution engine, real-time logging & n8n webhook triggers.
 
-### 🔹 Task Automation API
+</td>
+<td width="50%">
 
-Event-driven backend system with task chaining, parallel execution (asyncio), scheduling, retry mechanisms, and monitoring.
+**[02] Task Automation API**  
+`asyncio` `Event-driven` `Scheduling`  
+Backend system with task chaining, parallel execution, retry mechanisms & monitoring.
 
-### 🔹 MAHI AI Agent (Document Analyzer)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Semantic search system using embeddings + FAISS for intelligent document retrieval.
+**[03] MAHI AI Agent**  
+`Embeddings` `FAISS` `Semantic Search`  
+Intelligent document retrieval from PDFs using vector embeddings + FAISS.
 
-### 🔹 YouTube Sentiment Analyzer
+</td>
+<td width="50%">
 
-Transformer-based NLP system (BERT) for real-world sentiment analysis.
+**[04] YouTube Sentiment Analyzer**  
+`BERT` `Transformers` `NLP`  
+Real-world sentiment analysis on YouTube comments using transformer models.
 
-### 🔹 Offline Video Summarizer
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-End-to-end AI pipeline using Whisper + BART for summarizing long-form content.
+**[05] Offline Video Summarizer**  
+`Whisper` `BART` `AI Pipeline`  
+End-to-end pipeline for summarizing long-form video — fully offline capable.
 
-### 🔹 Social Media Backend API
+</td>
+<td width="50%">
 
-Scalable backend with authentication, feed system, and optimized database design.
+**[06] Social Media Backend API**  
+`TypeScript` `Auth` `Feed System`  
+Scalable backend with authentication & high-performance database design.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧩 Core Strengths
 
-* System design thinking (DAGs, execution engines, pipelines)
-* Asynchronous & parallel processing (asyncio)
-* Event-driven architecture & webhook systems
-* Backend scalability, reliability, and fault tolerance
-* Clean API design & modular architecture
+- **System design** — DAGs, execution engines, pipeline orchestration
+- **Async & parallel processing** — asyncio, concurrent execution
+- **Event-driven architecture** — webhooks, real-time systems
+- **Backend reliability** — fault tolerance, retry logic, monitoring
+- **Clean API design** — modular, well-documented, production-ready
+- **AI/ML deployment** — embedding systems, NLP pipelines at scale
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahiisss\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Mahi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff)
+
+</div>
 
 ---
 
 ## 🌱 Currently Exploring
 
-* Scaling backend systems
-* Distributed workflow orchestration
-* Production-ready AI/ML deployment
+```python
+focus = [
+    "scaling backend systems",
+    "distributed workflow orchestration",
+    "production AI/ML deployment",
+]
+```
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-* 📧 [mahiiss4455@gmail.com](mailto:mahiiss4455@gmail.com)
-* 💼 https://www.linkedin.com/in/mahisoni45
+*building systems · thinking deeply · improving consistently*
 
----
-
-## ✨
-
-> building systems • thinking deeply • improving consistently
+</div>
 
 
