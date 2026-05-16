@@ -6,7 +6,7 @@
 
 **Full-Stack Engineer · AI/ML Builder · Systems Thinker**
 
-*End-to-end — from React UIs to multi-agent RAG pipelines.*
+*End-to-end from React UIs to multi-agent RAG pipelines.*
 *Shipped 16 production-style projects across web, AI, data, and systems.*
 
 <br>
@@ -21,7 +21,7 @@
 
 ## Who I Am
 
-I build complete systems — not just backends, not just models.
+I build complete systems not just backends, not just models.
 
 I've shipped a **military logistics platform** (React + Node.js + RBAC, deployed), a **5-agent RAG pipeline** with zero hallucination tolerance, a **visual DAG orchestrator** inspired by Airflow, an **offline YouTube summarizer** using Whisper + BART, and a **BERT+Bi-LSTM sentiment classifier** benchmarked on 70,000 real comments for my B.Tech thesis.
 
