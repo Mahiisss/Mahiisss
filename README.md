@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1000&color=4A7C59&center=true&vCenter=true&width=500&lines=~/Mahiisss+%24+cat+profile.md;Full-Stack+Engineer+%7C+AI%2FML+Builder;16+projects+shipped.+Open+to+SDE+%2F+AI+%2F+Backend+roles." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1000&color=4A7C59&center=true&vCenter=true&width=500&lines=~/Mahiisss+%24+cat+profile.md;Full-Stack+Engineer+%7C+AI%2FML+Builder;16+projects+shipped alt="Typing SVG" />
 
 # Mahi
 
