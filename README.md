@@ -136,7 +136,7 @@ Drag-and-drop pipeline builder with Kahn's topological sort for DAG validation, 
 
 Logistics platform tracking vehicles, weapons, and ammo across bases. Covers purchases, transfers, assignments, expenditures. RBAC with 3 roles, real-time net movement dashboard.
 
-`Node.js` `Express` `SQLite` `JWT` `bcryptjs` `React`
+`Node.js` `Express` `SQLite` `JWT` `React`
 
 </td>
 <td width="50%" valign="top">
