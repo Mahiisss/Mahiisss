@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahisoni45)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mahiisss)
 
-**React Developer @ Khashsoft** · B.Tech, NIT Srinagar · Open to **Full-Stack / Backend / AI-ML** roles
+B.Tech, NIT Srinagar · Open to **Full-Stack · Backend · AI/ML** roles
 
 </div>
 
