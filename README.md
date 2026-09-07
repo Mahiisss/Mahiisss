@@ -1,138 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:00D9FF&height=150&section=header&text=MAHI%20SONI&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Engineer%20%C2%B7%20Multi-Agent%20AI%20Systems%20%C2%B7%20React%20Native&descSize=17&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=140&section=header&text=MAHI%20SONI&fontSize=50&fontColor=ffffff&fontAlignY=44&desc=Full-Stack%20Engineer%20%C2%B7%20Multi-Agent%20AI%20Systems%20%C2%B7%20React%20Native&descSize=16&descAlignY=70" width="100%" />
 
-<br>
-
-### *I build systems that hold up under real use — not demos that only look good in a screenshot.*
-
-<br>
-
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiisss4455@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahisoni45)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Mahiisss&style=for-the-badge&color=7928CA&label=VISITORS)](https://github.com/Mahiisss)
-
-<br>
-
-![NIT Srinagar](https://img.shields.io/badge/B.Tech-NIT_Srinagar-FF6B00?style=flat-square)
-&nbsp;
-![Open To](https://img.shields.io/badge/Open_to-Full--Stack_·_Backend_·_AI%2FML-00C853?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiisss4455@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahisoni45)
+[![Views](https://komarev.com/ghpvc/?username=Mahiisss&style=for-the-badge&color=06B6D4&label=VISITORS)](https://github.com/Mahiisss)
 
 </div>
 
-<br>
+## 👋 About
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:00D9FF&height=4&section=header" width="100%" />
+- 🔭 &nbsp;Building **multi-agent AI systems**, workflow engines and cross-platform apps
+- ⚙️ &nbsp;Day to day in **React · React Native · TypeScript · Python · FastAPI**
+- 🎓 &nbsp;**B.Tech, NIT Srinagar** — Electronics & Communication
+- 💬 &nbsp;Open to **Full-Stack · Backend · AI/ML** roles
 
-<h1 align="center">🔥 Flagship Work</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
-<br>
+## 🚀 Projects
 
-### 🤖 &nbsp;[Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai) &nbsp;&nbsp;<img src="https://img.shields.io/badge/Multi--Agent_RAG-FF0080?style=flat-square" />
+| Project | What it does | Built with |
+|---|---|---|
+| **[Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai)** | 6-agent RAG pipeline resolving support tickets. A separate compliance agent verifies every claim against its citation before anything ships. | ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square) |
+| **[AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)** | Drag-and-drop workflow engine with DAG cycle detection via Kahn's topological sort and 8 chainable node types. | ![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square) |
+| **[KristalBall](https://github.com/Mahiisss/military-asset-management)** | Military asset logistics platform — transfers, assignments, expenditures — with 3-role RBAC. Deployed and live. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-D63AFF?style=flat-square) |
+| **[Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis)** | B.Tech thesis. Benchmarked 5 architectures on 70k comments; BERT + Bi-LSTM hybrid beat the baseline by 6%. | ![BERT](https://img.shields.io/badge/BERT-1E88E5?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square) |
+| **[Offline YT Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)** | Whisper → BART pipeline running entirely local. No cloud APIs, chunks long transcripts, skips music. | ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square) ![BART](https://img.shields.io/badge/BART-FFD21E?style=flat-square) |
+| **[Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner)** | Subnet discovery, port scanning and 10 CIS benchmark checks, streamed to AWS for a live dashboard. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) |
 
-A **6-agent pipeline** — validation → triage → retrieval → resolution → compliance → escalation — resolving e-commerce support tickets. An independent compliance agent verifies every claim against its citation before anything ships, and can trigger a rewrite loop or escalate to a human. 25k+ words of policy indexed across 64 chunks in FAISS.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white) ![Groq](https://img.shields.io/badge/Llama_3.3_70B-F55036?style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## 🛠️ Stack
 
-<br>
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### ⚡ &nbsp;[AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator) &nbsp;&nbsp;<img src="https://img.shields.io/badge/Built_From_Scratch-7928CA?style=flat-square" />
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-A drag-and-drop workflow engine in the spirit of n8n — **cycle detection and execution ordering via Kahn's topological sort**, 8 chainable node types on a shared component base, isolated per-node error handling, and dual triggers (UI button + webhook) sharing one execution engine.
+**Backend** &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=flat-square&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+**AI / ML** &nbsp;
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<br>
+**Data & Cloud** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🎖️ &nbsp;[KristalBall — Military Asset Management](https://github.com/Mahiisss/military-asset-management) &nbsp;&nbsp;<img src="https://img.shields.io/badge/Live_in_Production-00C853?style=flat-square" />
-
-Logistics platform tracking vehicles, weapons and ammunition across military bases — purchases, transfers, assignments, expenditures — each updating inventory automatically. **3-role RBAC** enforced through JWT middleware, with a real-time net-movement dashboard. Deployed on Render + Vercel.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-D63AFF?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<br>
-
-### 🧠 &nbsp;[YouTube Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis) &nbsp;&nbsp;<img src="https://img.shields.io/badge/B.Tech_Thesis-FF6B00?style=flat-square" />
-
-Benchmarked **5 architectures** — Logistic Regression, Random Forest, Bi-LSTM, BERT, and a BERT + Bi-LSTM hybrid — on 70,000 real comments. The hybrid beat the baseline by 6%. Custom 100-emoji dictionary, chunk-based processing, and a live UI that pulls comments straight from a video link.
-
-![BERT](https://img.shields.io/badge/BERT-1E88E5?style=flat-square) ![Bi-LSTM](https://img.shields.io/badge/Bi--LSTM-8E24AA?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7928CA,100:FF0080&height=4&section=header" width="100%" />
-
-<h1 align="center">🧪 Also Worth A Look</h1>
-
-<br>
-
-🎧 &nbsp;**[Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)** &nbsp;<img src="https://img.shields.io/badge/Zero_Cloud_APIs-00D9FF?style=flat-square" /><br>
-Whisper → BART pipeline running **entirely local**. Chunks long transcripts around BART's token limit and detects music so it never summarizes lyrics.
-
-<br>
-
-🛡️ &nbsp;**[Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner)** &nbsp;<img src="https://img.shields.io/badge/Security_%2B_Cloud-E91E63?style=flat-square" /><br>
-Multithreaded subnet discovery and port/banner scanning, **10 CIS benchmark checks** with severity grading, streamed to AWS Lambda + DynamoDB for a live dashboard.
-
-<br>
-
-⚙️ &nbsp;**[Task Automation API](https://github.com/Mahiisss/Task-Automation-API)** &nbsp;<img src="https://img.shields.io/badge/Async_Backend-FFA000?style=flat-square" /><br>
-FastAPI service for chained and batched task execution — `asyncio.gather` parallelism, webhook triggers, configurable retries, and a stats endpoint for monitoring.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:00D9FF&height=4&section=header" width="100%" />
-
-<h1 align="center">🛠️ Core Stack</h1>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7928CA,100:FF0080&height=4&section=header" width="100%" />
-
-<h1 align="center">📊 By The Numbers</h1>
-
-<br>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&theme=radical&hide=issues" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&theme=radical&langs_count=6" />
-
-</div>
-
-<br>
 
 <img src="https://raw.githubusercontent.com/Mahiisss/Mahiisss/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7928CA,100:FF0080&height=120&section=footer" width="100%" />
+</div>
