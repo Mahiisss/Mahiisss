@@ -1,100 +1,78 @@
 <div align="center">
 
-# Mahi Soni
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=180&section=header&text=Mahi%20Soni&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Backend&descAlignY=54&descSize=18" width="100%" />
 
-### Software Engineer · Building Full-Stack & AI Systems
-
-*I build systems that hold up under real use — not demos that only look good in a screenshot.*
+**I build systems that hold up under real use — not demos that only look good in a screenshot.**
 
 <br>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahiisss4455@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahisoni45)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mahiisss)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mahiisss4455@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mahisoni45)
 
-B.Tech, NIT Srinagar · Open to **Full-Stack · Backend · AI/ML** roles
+`B.Tech, NIT Srinagar` · `Open to Full-Stack · Backend · AI/ML`
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
+## Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai)** &nbsp;·&nbsp; *multi-agent RAG, zero hallucination tolerance*
+> A 6-agent pipeline — validation → triage → retrieval → resolution → compliance → escalation — that resolves e-commerce tickets. A separate compliance agent checks every claim against its citation before anything ships. 25k+ words of policy indexed in FAISS.
+>
+> `CrewAI` `LangChain` `FAISS` `Groq / Llama 3.3` `Flask` `React`
 
-### Bazario Support AI
-*Multi-agent RAG · zero-hallucination tolerance*
+**[AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)** &nbsp;·&nbsp; *visual DAG automation, built from scratch*
+> Drag-and-drop pipeline editor with cycle detection and execution ordering via Kahn's topological sort. 8 chainable node types, node-to-node data flow, dual triggers (UI + webhook).
+>
+> `React Flow` `Zustand` `FastAPI` `n8n`
 
-6-agent pipeline (Validation → Triage → Retrieval → Resolution → Compliance → Escalation) resolving e-commerce tickets. Every response is grounded in retrieved policy and verified order data, with citation-backed sources. 25k+ words indexed in FAISS.
+**[KristalBall](https://github.com/Mahiisss/military-asset-management)** &nbsp;·&nbsp; *full-stack, deployed, role-based*
+> Logistics platform tracking assets across military bases — purchases, transfers, assignments, expenditures — with 3-role RBAC and a live net-movement dashboard. Running in production on Render + Vercel.
+>
+> `React` `Express` `SQLite` `JWT`
 
-`CrewAI` `LangChain` `FAISS` `Groq (Llama 3.3)` `Flask` `React` `Supabase`
+**[YouTube Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis)** &nbsp;·&nbsp; *B.Tech thesis*
+> Benchmarked 5 architectures on 70,000 real comments; the BERT + Bi-LSTM hybrid beat the baseline by 6%. Custom emoji dictionary, chunk-based processing, real-time inference UI.
+>
+> `BERT` `Bi-LSTM` `TensorFlow` `HuggingFace`
 
-</td>
-<td width="50%" valign="top">
+**[Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)** &nbsp;·&nbsp; *no cloud APIs, at all*
+> Audio → Whisper transcription → BART summarization, entirely local. Handles transcripts past BART's token limit by chunking, and detects music so it doesn't summarize lyrics.
+>
+> `Whisper (CTranslate2)` `BART` `FFmpeg` `Python`
 
-### AI Pipeline Orchestrator
-*Visual DAG automation · built to learn how n8n works*
+**[Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner)** &nbsp;·&nbsp; *scan → benchmark → dashboard*
+> Discovers devices on a subnet, scans open ports and service banners, runs 10 CIS benchmark checks with severity grading, and streams results to AWS for a live dashboard.
+>
+> `Python` `AWS Lambda` `DynamoDB` `Flask`
 
-Drag-and-drop pipeline editor with DAG validation via Kahn's topological sort, 8 chainable node types, automatic node-to-node data flow, and dual triggers (UI + n8n webhook).
+<br>
 
-`FastAPI` `React Flow` `Zustand` `n8n` `Pydantic`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### KristalBall — Military Asset Management
-*Full-stack · deployed · role-based access*
-
-Logistics platform tracking vehicles, weapons, and ammo across bases — purchases, transfers, assignments, expenditures. RBAC with 3 roles and a real-time net-movement dashboard.
-
-`Node.js` `Express` `SQLite` `JWT` `React`
-
-</td>
-<td width="50%" valign="top">
-
-### YouTube Sentiment Analysis
-*B.Tech thesis · 73.14% accuracy*
-
-Benchmarked 5 architectures (LR, Random Forest, Bi-LSTM, BERT, BERT+Bi-LSTM hybrid) on 70,000 real comments. Custom emoji handling, chunk-based processing, real-time inference UI.
-
-`BERT` `Bi-LSTM` `TensorFlow` `HuggingFace` `FastAPI`
-
-</td>
-</tr>
-</table>
-
-> 🔎 More in my [pinned repos](https://github.com/Mahiisss?tab=repositories) — offline YouTube summarizer (Whisper + BART), MCP weather service, social-media REST API, network posture scanner, and others.
-
----
-
-## 🛠️ Core Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
+## Core Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&theme=dark)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=ffffff)
+![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=for-the-badge&logoColor=FF5A50)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=0EA5E9&text_color=c9d1d9&hide=issues" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=6" />
 
 </div>
