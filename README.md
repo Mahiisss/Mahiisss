@@ -22,7 +22,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:00D9FF&height=4&section=header" width="100%" />
 
@@ -60,7 +60,7 @@ Benchmarked **5 architectures** — Logistic Regression, Random Forest, Bi-LSTM,
 
 ![BERT](https://img.shields.io/badge/BERT-1E88E5?style=flat-square) ![Bi-LSTM](https://img.shields.io/badge/Bi--LSTM-8E24AA?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7928CA,100:FF0080&height=4&section=header" width="100%" />
 
@@ -81,7 +81,7 @@ Multithreaded subnet discovery and port/banner scanning, **10 CIS benchmark chec
 ⚙️ &nbsp;**[Task Automation API](https://github.com/Mahiisss/Task-Automation-API)** &nbsp;<img src="https://img.shields.io/badge/Async_Backend-FFA000?style=flat-square" /><br>
 FastAPI service for chained and batched task execution — `asyncio.gather` parallelism, webhook triggers, configurable retries, and a stats endpoint for monitoring.
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:00D9FF&height=4&section=header" width="100%" />
 
@@ -113,7 +113,7 @@ FastAPI service for chained and batched task execution — `asyncio.gather` para
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:7928CA,100:FF0080&height=4&section=header" width="100%" />
 
@@ -128,6 +128,10 @@ FastAPI service for chained and batched task execution — `asyncio.gather` para
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&theme=radical&langs_count=6" />
 
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Mahiisss/Mahiisss/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br>
 
