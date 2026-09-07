@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=150&section=header&text=MAHI%20SONI&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20engineer%20building%20AI%20systems,%20APIs%20and%20cross-platform%20apps&descSize=15&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=180&section=header&text=MAHI%20SONI&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-<br/>
+<a href="https://github.com/Mahiisss">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Multi-agent+AI+systems;Workflow+engines+with+real+graph+algorithms;FastAPI+backends+%2B+React+Native+apps" alt="What I build" />
+</a>
 
-<a href="mailto:mahiisss4455@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" height="26" /></a>
+<br/><br/>
+
+<a href="mailto:mahiisss4455@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" height="26" /></a>
+<a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/Mahiisss?tab=repositories"><img src="https://img.shields.io/badge/Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -18,7 +24,7 @@ Most at home in **Python and TypeScript**, across **FastAPI** backends and **Rea
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
 <br/>
 
@@ -32,7 +38,12 @@ Six-agent RAG pipeline that resolves e-commerce support tickets against verified
 
 An independent compliance agent re-checks every claim in a drafted reply against its cited policy chunk before it ships — a failed check triggers a rewrite loop, and a second failure escalates to a human. Knowledge base of 64 indexed chunks across 50 policy sections, evaluated on a 20-case suite.
 
-`CrewAI` &nbsp;`LangChain` &nbsp;`FAISS` &nbsp;`Groq Llama 3.3 70B` &nbsp;`Flask` &nbsp;`PostgreSQL`
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=flat-square)
+![Groq Llama 3.3](https://img.shields.io/badge/Groq_Llama_3.3-7C3AED?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-7C3AED?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square)
 
 <br/>
 
@@ -42,7 +53,11 @@ Drag-and-drop workflow engine in the spirit of n8n and Airflow, built from scrat
 
 Validates graphs and resolves execution order with Kahn's topological sort, so cycles are caught before a run starts. Eight chainable node types share one base component, and the same execution engine backs both the manual trigger and an external webhook.
 
-`React Flow` &nbsp;`Zustand` &nbsp;`FastAPI` &nbsp;`Pydantic` &nbsp;`n8n`
+![React Flow](https://img.shields.io/badge/React_Flow-2563EB?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-2563EB?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-2563EB?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-2563EB?style=flat-square)
 
 <br/>
 
@@ -52,7 +67,10 @@ Asset logistics platform tracking purchases, transfers, assignments and expendit
 
 Every movement recalculates net balance per asset per base, so inventory stays consistent without a reconciliation step. Three roles — Admin, Base Commander, Logistics Officer — enforced at the middleware layer rather than hidden in the UI. Deployed on Render and Vercel.
 
-`React` &nbsp;`Express` &nbsp;`SQLite` &nbsp;`JWT`
+![React](https://img.shields.io/badge/React-06B6D4?style=flat-square)
+![Express](https://img.shields.io/badge/Express-06B6D4?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-06B6D4?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-06B6D4?style=flat-square)
 
 <br/>
 
@@ -62,7 +80,11 @@ Final-year thesis benchmarking five architectures on 70,000 labelled YouTube com
 
 A BERT + Bi-LSTM hybrid beat the classical baseline by 6%. Preprocessing included a hand-built 100-entry emoji dictionary, with cleaning tuned separately for classical and transformer models. Served through a live interface that pulls comments from any video link.
 
-`TensorFlow` &nbsp;`BERT` &nbsp;`Hugging Face` &nbsp;`Scikit-learn` &nbsp;`FastAPI` &nbsp;`React`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square)
+![BERT](https://img.shields.io/badge/BERT-7C3AED?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-7C3AED?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square)
 
 <br/>
 
@@ -72,11 +94,14 @@ Whisper to BART summarization pipeline that runs entirely on-device, with no clo
 
 Chunks transcripts around BART's ~1024-token ceiling and stitches the results, normalizes ASR filler out of the text, and detects music segments to skip summaries that would be meaningless.
 
-`Whisper (CTranslate2)` &nbsp;`BART Large CNN` &nbsp;`FFmpeg` &nbsp;`Python`
+![Whisper](https://img.shields.io/badge/Whisper-2563EB?style=flat-square)
+![BART](https://img.shields.io/badge/BART_Large_CNN-2563EB?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-2563EB?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square)
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
 <br/>
 
@@ -98,7 +123,7 @@ Chunks transcripts around BART's ~1024-token ceiling and stitches the results, n
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
 <br/>
 
@@ -106,17 +131,40 @@ Chunks transcripts around BART's ~1024-token ceiling and stitches the results, n
 
 <br/>
 
-| | |
-| :--- | :--- |
-| **Languages** | Python &nbsp; TypeScript &nbsp; JavaScript &nbsp; SQL |
-| **Frontend** | React &nbsp; React Native &nbsp; Expo &nbsp; Tailwind &nbsp; Zustand |
-| **Backend** | FastAPI &nbsp; Node.js &nbsp; Express &nbsp; Flask &nbsp; REST |
-| **AI & Data** | CrewAI &nbsp; LangChain &nbsp; FAISS &nbsp; TensorFlow &nbsp; Hugging Face |
-| **Infrastructure** | PostgreSQL &nbsp; Supabase &nbsp; AWS &nbsp; Docker &nbsp; Vercel |
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-2563EB?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-2563EB?style=flat-square&logo=expo&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend** &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-06B6D4?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-06B6D4?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-06B6D4?style=flat-square&logo=flask&logoColor=white)
+
+**AI & Data** &nbsp;
+![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-7C3AED?style=flat-square&logo=huggingface&logoColor=white)
+
+**Infrastructure** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2563EB?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2563EB?style=flat-square&logo=vercel&logoColor=white)
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
 
 <br/>
 
@@ -127,3 +175,5 @@ Open to full-stack, backend and AI engineering roles.
 [mahiisss4455@gmail.com](mailto:mahiisss4455@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mahisoni45)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" />
