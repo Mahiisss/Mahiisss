@@ -122,20 +122,6 @@ Chunks transcripts around BART's ~1024-token ceiling and stitches the results, n
 
 <div align="center">
 
-<img height="152" src="https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=2563EB&text_color=64748B&ring_color=7C3AED" />
-&nbsp;&nbsp;
-<img height="152" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=64748B&langs_count=6" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 Open to full-stack, backend and AI engineering roles.
 
 [mahiisss4455@gmail.com](mailto:mahiisss4455@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mahisoni45)
