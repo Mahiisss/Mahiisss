@@ -1,124 +1,143 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=200&section=header&text=MAHI%20SONI&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20building%20AI-powered%20products&descAlignY=55&descSize=18&animation=fadeIn" width="100%" />
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=600&lines=Multi-Agent+AI+Systems;React+%26+React+Native;FastAPI+%2B+Python+Backends;Shipping+ideas+end-to-end" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=150&section=header&text=MAHI%20SONI&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full-stack%20engineer%20building%20AI%20systems,%20APIs%20and%20cross-platform%20apps&descSize=15&descAlignY=68&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="mailto:mahiisss4455@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Mahiisss"><img src="https://komarev.com/ghpvc/?username=Mahiisss&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" /></a>
+<a href="mailto:mahiisss4455@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" height="26" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" height="26" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
-
-## About
-
-- 🔭 Currently building multi-agent AI systems, workflow engines, and cross-platform mobile apps
-- ⚙️ Comfortable across the stack — React, React Native, TypeScript, Python, FastAPI
-- 🎓 B.Tech, Electronics & Communication Engineering — NIT Srinagar
-- 🌱 Exploring backend and AI/ML roles alongside full-stack work
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8&ring_color=2563EB" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=94A3B8&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahiisss&hide_border=true&background=00000000&stroke=2563EB&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
-
-## Featured Projects
-
-> ### 🤖 [Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai)
-> A 6-agent RAG pipeline that resolves e-commerce support tickets from real order data. An independent compliance agent checks every claim against its source citation before a response ships, with a rewrite loop or human escalation if it fails.
-> `Python` `CrewAI` `LangChain` `FAISS` `Groq Llama 3.3` `PostgreSQL`
-
-> ### 🔀 [AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)
-> A drag-and-drop workflow engine built from scratch, inspired by n8n and Airflow. Detects DAG cycles and resolves execution order with Kahn's topological sort, across 8 chainable node types with dual manual/webhook triggers.
-> `React Flow` `Zustand` `FastAPI` `n8n`
-
-> ### 🎖️ [KristalBall](https://github.com/Mahiisss/military-asset-management)
-> A full-stack platform tracking military assets across bases — purchases, transfers, assignments, and expenditures — with automatic inventory updates and 3-tier role-based access via JWT. Deployed live.
-> `React` `Express` `SQLite` `JWT`
-
-> ### 🧠 [Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis)
-> B.Tech thesis project benchmarking 5 architectures on 70,000 YouTube comments. The final BERT + Bi-LSTM hybrid beat the baseline by 6%, served through a live web app for real-time sentiment on any video link.
-> `Python` `TensorFlow` `BERT` `FastAPI` `React`
-
-> ### 🎧 [Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)
-> A Whisper → BART pipeline that runs entirely offline with no cloud APIs. Chunks long transcripts around BART's token limit and skips music segments so summaries stay meaningful.
-> `Python` `Whisper` `BART` `FFmpeg`
-
-> ### 🌐 [Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api)
-> A production-style backend — posts, hashtags, follow/unfollow, personalized feeds, and activity history — with a migration-driven schema and fully validated requests.
-> `Node.js` `Express` `TypeORM` `SQLite`
-
-<details>
-<summary><b>More projects</b></summary>
 <br/>
 
-| Project | Description | Tech |
-|---|---|---|
-| [Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner) | Subnet discovery + 10 CIS benchmark checks, streamed to a live AWS dashboard | Python, AWS |
-| [Task Automation API](https://github.com/Mahiisss/Task-Automation-API) | FastAPI service for chained, batched task execution with retries and webhook triggers | Python, FastAPI |
-| [Trade Opportunities API](https://github.com/Mahiisss/trade-opportunities-api) | FastAPI + Gemini backend generating sector-wise trade trend reports | Python, FastAPI, Gemini |
-| [Todo App (React Native)](https://github.com/Mahiisss/Todo-App) | Cross-platform mobile task manager with filtering, sorting, and offline storage | React Native, Expo |
-| [AI Todo PWA](https://github.com/Mahiisss/ai-todo-app) | Installable, offline-first todo app with local persistence | React, Vite, Tailwind |
-| [MAHI AI Agent](https://github.com/Mahiisss/MAHI_AI_Agent_Streamlit) | PDF document analyzer answering natural-language questions via semantic search | Streamlit, FAISS |
-| [Sorting Algorithm Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer) | Interactive visualizer for 5 sorting algorithms — [live demo](https://s0rting.netlify.app/) | JS, CSS |
-| [Superstore Analytics Dashboard](https://github.com/Mahiisss/Superstore_Analytics_Dashboard-1) | Retail sales analytics dashboard with segment and loss-driver analysis | Power BI, SQL |
+I build systems where the interesting problem is the architecture, not the CRUD — multi-agent AI pipelines with verification layers, workflow engines with real graph algorithms, and mobile apps that ship.
 
-</details>
+Most at home in **Python and TypeScript**, across **FastAPI** backends and **React / React Native** frontends. B.Tech in Electronics & Communication from **NIT Srinagar**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
+<br/>
+
+---
+
+<br/>
+
+## Featured work
+
+<br/>
+
+### [Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai)
+
+Six-agent RAG pipeline that resolves e-commerce support tickets against verified order data.
+
+An independent compliance agent re-checks every claim in a drafted reply against its cited policy chunk before it ships — a failed check triggers a rewrite loop, and a second failure escalates to a human. Knowledge base of 64 indexed chunks across 50 policy sections, evaluated on a 20-case suite.
+
+`CrewAI` &nbsp;`LangChain` &nbsp;`FAISS` &nbsp;`Groq Llama 3.3 70B` &nbsp;`Flask` &nbsp;`PostgreSQL`
+
+<br/>
+
+### [AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)
+
+Drag-and-drop workflow engine in the spirit of n8n and Airflow, built from scratch.
+
+Validates graphs and resolves execution order with Kahn's topological sort, so cycles are caught before a run starts. Eight chainable node types share one base component, and the same execution engine backs both the manual trigger and an external webhook.
+
+`React Flow` &nbsp;`Zustand` &nbsp;`FastAPI` &nbsp;`Pydantic` &nbsp;`n8n`
+
+<br/>
+
+### [KristalBall](https://github.com/Mahiisss/military-asset-management)
+
+Asset logistics platform tracking purchases, transfers, assignments and expenditures across military bases.
+
+Every movement recalculates net balance per asset per base, so inventory stays consistent without a reconciliation step. Three roles — Admin, Base Commander, Logistics Officer — enforced at the middleware layer rather than hidden in the UI. Deployed on Render and Vercel.
+
+`React` &nbsp;`Express` &nbsp;`SQLite` &nbsp;`JWT`
+
+<br/>
+
+### [Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis)
+
+Final-year thesis benchmarking five architectures on 70,000 labelled YouTube comments.
+
+A BERT + Bi-LSTM hybrid beat the classical baseline by 6%. Preprocessing included a hand-built 100-entry emoji dictionary, with cleaning tuned separately for classical and transformer models. Served through a live interface that pulls comments from any video link.
+
+`TensorFlow` &nbsp;`BERT` &nbsp;`Hugging Face` &nbsp;`Scikit-learn` &nbsp;`FastAPI` &nbsp;`React`
+
+<br/>
+
+### [Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)
+
+Whisper to BART summarization pipeline that runs entirely on-device, with no cloud APIs.
+
+Chunks transcripts around BART's ~1024-token ceiling and stitches the results, normalizes ASR filler out of the text, and detects music segments to skip summaries that would be meaningless.
+
+`Whisper (CTranslate2)` &nbsp;`BART Large CNN` &nbsp;`FFmpeg` &nbsp;`Python`
+
+<br/>
+
+---
+
+<br/>
+
+## Also built
+
+<br/>
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner) | Subnet discovery and 10 CIS benchmark checks, streamed to a live AWS dashboard | Python, Lambda, DynamoDB |
+| [Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api) | Posts, hashtags, follows and personalized feeds on a migration-driven schema | Express, TypeORM, TypeScript |
+| [Task Automation API](https://github.com/Mahiisss/Task-Automation-API) | Chained and batched task execution with retries and webhook triggers | FastAPI, asyncio |
+| [Trade Opportunities API](https://github.com/Mahiisss/trade-opportunities-api) | Sector-wise market reports from live search, with rate limiting and API keys | FastAPI, Gemini, SlowAPI |
+| [Todo App](https://github.com/Mahiisss/Todo-App) | Cross-platform task manager with filtering, sorting and offline persistence | React Native, Expo |
+| [MAHI AI Agent](https://github.com/Mahiisss/MAHI_AI_Agent_Streamlit) | Extracts structured fields from PDFs and answers questions over them | Streamlit, FAISS |
+| [AI Todo PWA](https://github.com/Mahiisss/ai-todo-app) | Installable offline-first todo app with service-worker caching | React, Vite, Tailwind |
+| [Sorting Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer) | Five sorting algorithms visualized step by step — [live](https://s0rting.netlify.app/) | JavaScript |
+| [Superstore Analytics](https://github.com/Mahiisss/Superstore_Analytics_Dashboard-1) | Retail dashboard surfacing segment performance and loss drivers | Power BI, SQL |
+
+<br/>
+
+---
+
+<br/>
 
 ## Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<br/>
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+| | |
+| :--- | :--- |
+| **Languages** | Python &nbsp; TypeScript &nbsp; JavaScript &nbsp; SQL |
+| **Frontend** | React &nbsp; React Native &nbsp; Expo &nbsp; Tailwind &nbsp; Zustand |
+| **Backend** | FastAPI &nbsp; Node.js &nbsp; Express &nbsp; Flask &nbsp; REST |
+| **AI & Data** | CrewAI &nbsp; LangChain &nbsp; FAISS &nbsp; TensorFlow &nbsp; Hugging Face |
+| **Infrastructure** | PostgreSQL &nbsp; Supabase &nbsp; AWS &nbsp; Docker &nbsp; Vercel |
 
-**Backend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<br/>
 
-**AI / ML**
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+---
 
-**Data & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=3&section=header" width="100%" />
+<br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Mahiisss/Mahiisss/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<img height="152" src="https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=2563EB&text_color=64748B&ring_color=7C3AED" />
+&nbsp;&nbsp;
+<img height="152" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=64748B&langs_count=6" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" />
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+Open to full-stack, backend and AI engineering roles.
+
+[mahiisss4455@gmail.com](mailto:mahiisss4455@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mahisoni45)
+
+</div>
