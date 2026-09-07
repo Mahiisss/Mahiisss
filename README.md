@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,50:7928CA,100:00D9FF&height=200&section=header&text=Mahi%20Soni&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;Multi-Agent+AI+Systems;React+%2B+React+Native;FastAPI+%7C+CrewAI+%7C+LangChain" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:00D9FF&height=150&section=header&text=MAHI%20SONI&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Engineer%20%C2%B7%20Multi-Agent%20AI%20Systems%20%C2%B7%20React%20Native&descSize=17&descAlignY=68&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -70,18 +68,18 @@ Benchmarked **5 architectures** — Logistic Regression, Random Forest, Bi-LSTM,
 
 <br>
 
-🎧 &nbsp;**[Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)** &nbsp;<img src="https://img.shields.io/badge/Zero_Cloud_APIs-00D9FF?style=flat-square" />
-&nbsp;&nbsp;&nbsp;&nbsp;Whisper → BART pipeline running **entirely local**. Chunks long transcripts around BART's token limit and detects music so it never summarizes lyrics.
+🎧 &nbsp;**[Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)** &nbsp;<img src="https://img.shields.io/badge/Zero_Cloud_APIs-00D9FF?style=flat-square" /><br>
+Whisper → BART pipeline running **entirely local**. Chunks long transcripts around BART's token limit and detects music so it never summarizes lyrics.
 
 <br>
 
-🛡️ &nbsp;**[Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner)** &nbsp;<img src="https://img.shields.io/badge/Security_%2B_Cloud-E91E63?style=flat-square" />
-&nbsp;&nbsp;&nbsp;&nbsp;Multithreaded subnet discovery and port/banner scanning, **10 CIS benchmark checks** with severity grading, streamed to AWS Lambda + DynamoDB for a live dashboard.
+🛡️ &nbsp;**[Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner)** &nbsp;<img src="https://img.shields.io/badge/Security_%2B_Cloud-E91E63?style=flat-square" /><br>
+Multithreaded subnet discovery and port/banner scanning, **10 CIS benchmark checks** with severity grading, streamed to AWS Lambda + DynamoDB for a live dashboard.
 
 <br>
 
-⚙️ &nbsp;**[Task Automation API](https://github.com/Mahiisss/Task-Automation-API)** &nbsp;<img src="https://img.shields.io/badge/Async_Backend-FFA000?style=flat-square" />
-&nbsp;&nbsp;&nbsp;&nbsp;FastAPI service for chained and batched task execution — `asyncio.gather` parallelism, webhook triggers, configurable retries, and a stats endpoint for monitoring.
+⚙️ &nbsp;**[Task Automation API](https://github.com/Mahiisss/Task-Automation-API)** &nbsp;<img src="https://img.shields.io/badge/Async_Backend-FFA000?style=flat-square" /><br>
+FastAPI service for chained and batched task execution — `asyncio.gather` parallelism, webhook triggers, configurable retries, and a stats endpoint for monitoring.
 
 <br><br>
 
