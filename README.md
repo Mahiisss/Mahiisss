@@ -16,7 +16,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" align="center" /> About me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="22" align="center" /> &nbsp;I build with **HTML, CSS, JavaScript, TypeScript and React**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="22" align="center" /> &nbsp;I build with **HTML, CSS, JavaScript, TypeScript, React and Next.js**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" align="center" /> &nbsp;I write **responsive, mobile-first layouts** with Flexbox, Grid and Tailwind
 
@@ -43,6 +43,13 @@
 ![Express](https://img.shields.io/badge/Express-A855F7?style=flat-square&logo=express&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-3B82F6?style=flat-square&logo=vercel&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="22" align="center" /> &nbsp;**[Entrevista](https://github.com/Mahiisss/entrevista)**: note-sharing platform for students with tags, dashboards and login<br/>
+![Next.js](https://img.shields.io/badge/Next.js-FF6FD8?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-D16BF0?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-A855F7?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-7C6CF5?style=flat-square&logo=mui&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=flat-square&logo=mongodb&logoColor=white)
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="22" align="center" /> &nbsp;**[Todo App](https://github.com/Mahiisss/Todo-App)**: iOS and Android task manager that works offline<br/>
 ![React Native](https://img.shields.io/badge/React_Native-FF6FD8?style=flat-square&logo=react&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-A855F7?style=flat-square&logo=expo&logoColor=white)
@@ -63,7 +70,7 @@
 
 <div align="center">
   <b>Frontend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,vite&perline=10" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind, Material UI, Vite" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Responsive_Design-FF6FD8?style=for-the-badge" alt="Responsive Design" />
   <img src="https://img.shields.io/badge/Flexbox_%26_Grid-D16BF0?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox & Grid" />
