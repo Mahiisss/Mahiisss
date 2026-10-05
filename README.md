@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:A855F7,100:3B82F6&height=190&section=header&text=Hi,%20I%27m%20Mahi&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Frontend%20Engineer%20%C2%B7%20React%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hi, I'm Mahi — Frontend Engineer, React Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,50:A855F7,100:3B82F6&height=190&section=header&text=Hi,%20I%27m%20Mahi&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Frontend%20Developer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Hi, I'm Mahi — Frontend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=560&height=36&lines=I+turn+complex+systems+into+simple+interfaces;React+%C2%B7+TypeScript+%C2%B7+React+Native;Drag-and-drop+editors+%26+live+dashboards" alt="I turn complex systems into simple interfaces" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=560&height=36&lines=I+turn+complex+systems+into+simple+interfaces;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+React;Responsive%2C+interactive+UIs+for+web+%26+mobile" alt="I turn complex systems into simple interfaces" />
 
 <br/>
 
@@ -16,7 +16,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30" align="center" /> About me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="22" align="center" /> &nbsp;I build with **React, TypeScript and React Native**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="22" align="center" /> &nbsp;I build with **HTML, CSS, JavaScript, TypeScript and React**
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" align="center" /> &nbsp;I write **responsive, mobile-first layouts** with Flexbox, Grid and Tailwind
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="22" align="center" /> &nbsp;I love interactive UIs: drag-and-drop editors, dashboards, live visualizations
 
@@ -24,7 +26,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" align="center" /> &nbsp;B.Tech from **NIT Srinagar**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" align="center" /> &nbsp;Open to **frontend & React developer** roles
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" align="center" /> &nbsp;Open to **frontend developer** roles
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,50:A855F7,100:3B82F6&height=2&section=header" width="100%" />
 
@@ -60,7 +62,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="center" /> Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,fastapi,git,vercel&perline=12" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Node.js, Express, FastAPI, Git, Vercel" />
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite&perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind, Vite" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Responsive_Design-FF6FD8?style=for-the-badge" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Flexbox_%26_Grid-D16BF0?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox & Grid" />
+  <img src="https://img.shields.io/badge/React_Native-A855F7?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/PWA-7C6CF5?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=for-the-badge" alt="REST APIs" />
+  <br/><br/>
+  <b>Tools & backend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,nodejs,express,fastapi&perline=8" alt="Git, GitHub, VS Code, Netlify, Vercel, Node.js, Express, FastAPI" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,50:A855F7,100:3B82F6&height=2&section=header" width="100%" />
