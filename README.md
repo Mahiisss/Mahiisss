@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=180&section=header&text=MAHI%20SONI&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=180&section=header&text=MAHI%20SONI&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Mahi Soni" />
 
 <a href="https://github.com/Mahiisss">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Multi-agent+AI+systems;Workflow+engines+with+real+graph+algorithms;FastAPI+backends+%2B+React+Native+apps" alt="What I build" />
