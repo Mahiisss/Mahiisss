@@ -13,39 +13,32 @@
 
 <br/>
 
-```ts
-const mahi = {
-  role:      "Frontend Engineer",
-  stack:     ["React", "TypeScript", "React Native", "Tailwind"],
-  loves:     ["drag-and-drop editors", "dashboards", "offline-first apps"],
-  education: "B.Tech, NIT Srinagar",
-  openTo:    "Frontend & React developer roles",
-};
-```
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28" /> About me
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="20" /> &nbsp;I build with **React, TypeScript and React Native**<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" width="20" /> &nbsp;I love interactive UIs: drag-and-drop editors, dashboards, live visualizations<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> &nbsp;I ship cross-platform apps and offline-first PWAs<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" /> &nbsp;B.Tech from **NIT Srinagar**<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" /> &nbsp;Open to **frontend & React developer** roles
 
 <br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Projects
 
-**[AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)**<br/>
-Drag-and-drop workflow editor like n8n, with eight node types on a React Flow canvas.<br/>
-`React` `React Flow` `Zustand` `FastAPI`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Shuffle%20Tracks%20Button.png" width="20" /> &nbsp;**[AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)**: drag-and-drop workflow editor like n8n<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · React Flow · Zustand · FastAPI</sub>
 
-**[KristalBall](https://github.com/Mahiisss/military-asset-management)**<br/>
-Logistics dashboard for military bases with three role-based views.<br/>
-`React` `Express` `JWT` `Vercel`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20" /> &nbsp;**[KristalBall](https://github.com/Mahiisss/military-asset-management)**: logistics dashboard with three role-based views<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Express · Vercel</sub>
 
-**[Todo App](https://github.com/Mahiisss/Todo-App)**<br/>
-Cross-platform task manager for iOS and Android that works offline.<br/>
-`React Native` `Expo`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> &nbsp;**[Todo App](https://github.com/Mahiisss/Todo-App)**: iOS and Android task manager that works offline<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React Native · Expo</sub>
 
-**[AI Todo PWA](https://github.com/Mahiisss/ai-todo-app)**<br/>
-Installable todo app that keeps working with no connection.<br/>
-`React` `Vite` `Tailwind` `PWA`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20" /> &nbsp;**[AI Todo PWA](https://github.com/Mahiisss/ai-todo-app)**: installable todo app that works with no connection<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React · Vite · Tailwind</sub>
 
-**[Sorting Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer)** · [try it live ↗](https://s0rting.netlify.app/)<br/>
-Five sorting algorithms animated step by step.<br/>
-`JavaScript` `HTML` `CSS`
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20" /> &nbsp;**[Sorting Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer)**: sorting algorithms animated step by step · [try it live ↗](https://s0rting.netlify.app/)<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScript · HTML · CSS</sub>
 
 <br/>
 
@@ -67,5 +60,7 @@ Five sorting algorithms animated step by step.<br/>
 <br/>
 
 <p align="center">
-  <i>Let's build something together.</i> &nbsp;📫 <a href="mailto:mahiisss4455@gmail.com">mahiisss4455@gmail.com</a>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /><br/>
+  <i>Let's build something together.</i><br/>
+  <a href="mailto:mahiisss4455@gmail.com">mahiisss4455@gmail.com</a>
 </p>
