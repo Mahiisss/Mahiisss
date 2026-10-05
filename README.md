@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=180&section=header&text=MAHI%20SONI&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Mahi Soni" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=180&section=header&text=MAHI%20SONI&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Engineer%20%C2%B7%20React%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Mahi Soni — Frontend Engineer, React Developer" />
 
 <a href="https://github.com/Mahiisss">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Multi-agent+AI+systems;Workflow+engines+with+real+graph+algorithms;FastAPI+backends+%2B+React+Native+apps" alt="What I build" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=React+%2B+TypeScript+interfaces;Drag-and-drop+editors+with+React+Flow;React+Native+apps+that+ship;Offline-first+PWAs" alt="What I build" />
 </a>
 
 <br/><br/>
@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="https://github.com/Mahiisss?tab=repositories"><img src="https://img.shields.io/badge/Projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://s0rting.netlify.app/"><img src="https://img.shields.io/badge/Live_demo-06B6D4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -24,14 +24,15 @@
 
 ## 👋 Hey, I'm Mahi
 
-I build systems where the interesting problem is the architecture, not the CRUD — multi-agent AI pipelines with verification layers, workflow engines with real graph algorithms, and mobile apps that ship.
+A frontend engineer who builds **React interfaces for complex systems**: node-based workflow editors, role-based dashboards, and mobile apps that work offline.
 
-- 🧠 Building **multi-agent RAG systems** with verification and self-correction loops
-- ⚙️ Designing **workflow engines** — DAGs, topological sort, webhook triggers
-- 🐍 Most at home in **Python and TypeScript**, across **FastAPI** backends and **React / React Native** frontends
+- ⚛️ Building with **React, TypeScript and React Native**
+- 🧩 Love interactive UIs: drag-and-drop canvases, live visualizations, real-time state
+- 🗂️ Clean state management with **Zustand** and component architectures that scale
+- 📱 Shipping cross-platform apps with **Expo** and installable **PWAs**
+- 🔌 Comfortable on the other side of the API too: **Node, Express, FastAPI**
 - 🎓 B.Tech in Electronics & Communication from **NIT Srinagar**
-- 📍 Based in India · 💼 open to full-stack, backend and AI engineering roles
-- ⚡ Fun fact: I hand-built a 100-entry emoji dictionary for my thesis 😄
+- 💼 Open to **frontend and React developer** roles
 
 <br/>
 
@@ -39,76 +40,68 @@ I build systems where the interesting problem is the architecture, not the CRUD 
 
 <br/>
 
-## 🚀 Featured work
-
-<br/>
-
-### 🤖 [Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai)
-
-Six-agent RAG pipeline that resolves e-commerce support tickets against verified order data.
-
-An independent compliance agent re-checks every claim in a drafted reply against its cited policy chunk before it ships — a failed check triggers a rewrite loop, and a second failure escalates to a human. Knowledge base of 64 indexed chunks across 50 policy sections, evaluated on a 20-case suite.
-
-![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=flat-square)
-![Groq Llama 3.3](https://img.shields.io/badge/Groq_Llama_3.3-7C3AED?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-7C3AED?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square)
+## 🚀 Featured frontend work
 
 <br/>
 
 ### 🔀 [AI Pipeline Orchestrator](https://github.com/Mahiisss/AI-Pipeline-Orchestrator)
 
-Drag-and-drop workflow engine in the spirit of n8n and Airflow, built from scratch.
+A drag-and-drop workflow editor in the spirit of n8n, built from scratch in React.
 
-Validates graphs and resolves execution order with Kahn's topological sort, so cycles are caught before a run starts. Eight chainable node types share one base component, and the same execution engine backs both the manual trigger and an external webhook.
+Users build pipelines on a **React Flow** canvas from eight chainable node types that all share one base component, so adding a new node is a small, isolated change. Editor state is managed with **Zustand**, and the FastAPI engine validates every graph with Kahn's topological sort, so cycles are caught before a run starts.
 
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React_Flow-2563EB?style=flat-square)
 ![Zustand](https://img.shields.io/badge/Zustand-2563EB?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-2563EB?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-2563EB?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=flat-square&logo=fastapi&logoColor=white)
 
 <br/>
 
 ### 🛡️ [KristalBall](https://github.com/Mahiisss/military-asset-management)
 
-Asset logistics platform tracking purchases, transfers, assignments and expenditures across military bases.
+A logistics dashboard tracking purchases, transfers, assignments and expenditures across military bases.
 
-Every movement recalculates net balance per asset per base, so inventory stays consistent without a reconciliation step. Three roles — Admin, Base Commander, Logistics Officer — enforced at the middleware layer rather than hidden in the UI. Deployed on Render and Vercel.
+The React frontend adapts to three roles (Admin, Base Commander, Logistics Officer), with access enforced on the server too rather than only hidden in the UI. Every movement recalculates the net balance per asset per base, so the numbers on screen always match. Deployed on **Vercel** with the API on Render.
 
-![React](https://img.shields.io/badge/React-06B6D4?style=flat-square)
-![Express](https://img.shields.io/badge/Express-06B6D4?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-06B6D4?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-06B6D4?style=flat-square)
-
-<br/>
-
-### 💬 [Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis)
-
-Final-year thesis benchmarking five architectures on 70,000 labelled YouTube comments.
-
-A BERT + Bi-LSTM hybrid beat the classical baseline by 6%. Preprocessing included a hand-built 100-entry emoji dictionary, with cleaning tuned separately for classical and transformer models. Served through a live interface that pulls comments from any video link.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-7C3AED?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-7C3AED?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square)
+![React](https://img.shields.io/badge/React-06B6D4?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-06B6D4?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-06B6D4?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-06B6D4?style=flat-square&logo=vercel&logoColor=white)
 
 <br/>
 
-### 🎬 [Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)
+### 📱 [Todo App](https://github.com/Mahiisss/Todo-App)
 
-Whisper to BART summarization pipeline that runs entirely on-device, with no cloud APIs.
+A cross-platform task manager for iOS and Android built with **React Native and Expo**.
 
-Chunks transcripts around BART's ~1024-token ceiling and stitches the results, normalizes ASR filler out of the text, and detects music segments to skip summaries that would be meaningless.
+Filtering, sorting and offline persistence, so tasks survive app restarts with no network.
 
-![Whisper](https://img.shields.io/badge/Whisper-2563EB?style=flat-square)
-![BART](https://img.shields.io/badge/BART_Large_CNN-2563EB?style=flat-square)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-2563EB?style=flat-square)
-![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-7C3AED?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-7C3AED?style=flat-square&logo=expo&logoColor=white)
+
+<br/>
+
+### ✅ [AI Todo PWA](https://github.com/Mahiisss/ai-todo-app)
+
+An installable, offline-first todo app.
+
+Service-worker caching keeps it usable with no connection, and it installs to the home screen like a native app. Built with **Vite** and styled with **Tailwind**.
+
+![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-2563EB?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-2563EB?style=flat-square&logo=pwa&logoColor=white)
+
+<br/>
+
+### 📊 [Sorting Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer) · [live ↗](https://s0rting.netlify.app/)
+
+Five sorting algorithms animated step by step in the browser, so you can watch each comparison and swap happen.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-06B6D4?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-06B6D4?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-06B6D4?style=flat-square&logo=css3&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-06B6D4?style=flat-square&logo=netlify&logoColor=white)
 
 <br/>
 
@@ -122,14 +115,10 @@ Chunks transcripts around BART's ~1024-token ceiling and stitches the results, n
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner) | Subnet discovery and 10 CIS benchmark checks, streamed to a live AWS dashboard | Python, Lambda, DynamoDB |
-| [Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api) | Posts, hashtags, follows and personalized feeds on a migration-driven schema | Express, TypeORM, TypeScript |
-| [Task Automation API](https://github.com/Mahiisss/Task-Automation-API) | Chained and batched task execution with retries and webhook triggers | FastAPI, asyncio |
-| [Trade Opportunities API](https://github.com/Mahiisss/trade-opportunities-api) | Sector-wise market reports from live search, with rate limiting and API keys | FastAPI, Gemini, SlowAPI |
-| [Todo App](https://github.com/Mahiisss/Todo-App) | Cross-platform task manager with filtering, sorting and offline persistence | React Native, Expo |
-| [MAHI AI Agent](https://github.com/Mahiisss/MAHI_AI_Agent_Streamlit) | Extracts structured fields from PDFs and answers questions over them | Streamlit, FAISS |
-| [AI Todo PWA](https://github.com/Mahiisss/ai-todo-app) | Installable offline-first todo app with service-worker caching | React, Vite, Tailwind |
-| [Sorting Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer) | Five sorting algorithms visualized step by step — [live](https://s0rting.netlify.app/) | JavaScript |
+| [Bazario Support AI](https://github.com/Mahiisss/bazario-support-ai) | Six-agent RAG pipeline that resolves support tickets, with a compliance agent that fact-checks every reply | CrewAI, LangChain, Flask |
+| [Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis) | Thesis benchmarking five models on 70k YouTube comments, served through a live web interface | TensorFlow, BERT, FastAPI |
+| [Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api) | Posts, hashtags, follows and personalized feeds | Express, TypeORM, TypeScript |
+| [Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer) | On-device Whisper → BART summaries, no cloud APIs | Python, Whisper |
 | [Superstore Analytics](https://github.com/Mahiisss/Superstore_Analytics_Dashboard-1) | Retail dashboard surfacing segment performance and loss drivers | Power BI, SQL |
 
 <br/>
@@ -143,41 +132,41 @@ Chunks transcripts around BART's ~1024-token ceiling and stitches the results, n
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,flask,nodejs,express,postgres,supabase,aws,docker,vercel,tensorflow,git&perline=8" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,express,fastapi,postgres,git,github,vercel,netlify&perline=8" alt="Tech icons" />
 </div>
 
 <br/>
 
+**⚛️ Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-7C3AED?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-7C3AED?style=flat-square&logo=expo&logoColor=white)
+![React Flow](https://img.shields.io/badge/React_Flow-7C3AED?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-7C3AED?style=flat-square)
+
 **💻 Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white)
 
-**🎨 Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-2563EB?style=flat-square&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-2563EB?style=flat-square&logo=expo&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-2563EB?style=flat-square&logo=tailwindcss&logoColor=white)
+**🎨 Styling & build** &nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-06B6D4?style=flat-square&logo=vite&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-06B6D4?style=flat-square&logo=pwa&logoColor=white)
 
-**🔧 Backend** &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-06B6D4?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-06B6D4?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-06B6D4?style=flat-square&logo=flask&logoColor=white)
+**🔌 Backend & APIs** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-7C3AED?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white)
 
-**🧠 AI & Data** &nbsp;
-![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-7C3AED?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-7C3AED?style=flat-square&logo=huggingface&logoColor=white)
-
-**☁️ Infrastructure** &nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2563EB?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-2563EB?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white)
+**🚢 Deploy & tools** &nbsp;
+![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-2563EB?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-2563EB?style=flat-square&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
 
@@ -206,7 +195,7 @@ Chunks transcripts around BART's ~1024-token ceiling and stitches the results, n
 
 ### 📫 Let's connect
 
-Open to full-stack, backend and AI engineering roles.
+Open to frontend and React developer roles.
 
 📧 [mahiisss4455@gmail.com](mailto:mahiisss4455@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/mahisoni45)
 
