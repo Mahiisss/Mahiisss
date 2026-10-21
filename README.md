@@ -1,39 +1,34 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,35:7928CA,70:4F46E5,100:06B6D4&height=170&section=header&text=Hi,%20I%27m%20Mahi&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=17&descAlignY=58&animation=twinkling" width="100%" alt="Hi, I'm Mahi — Full Stack Developer" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=FF0080&center=true&vCenter=true&width=480&height=28&lines=I+build+products+end+to+end+%E2%9C%A8;React+%C2%B7+Next.js+%C2%B7+React+Native;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Multi-agent+AI+that+checks+its+answers" alt="I build products end to end" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,35:7928CA,70:4F46E5,100:06B6D4&height=130&section=header&text=Hi,%20I%27m%20Mahi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Hi, I'm Mahi — Full Stack Developer" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=FF0080&center=true&vCenter=true&width=460&height=22&lines=I+build+products+end+to+end+%E2%9C%A8;React+%C2%B7+Next.js+%C2%B7+React+Native;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Multi-agent+AI+that+checks+its+answers" alt="I build products end to end" />
+<br/>
 <a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mahiisss4455@gmail.com"><img src="https://img.shields.io/badge/Email-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Mahiisss/Splitly"><img src="https://img.shields.io/badge/Latest_project-7928CA?style=flat-square&logo=github&logoColor=white" alt="Latest project" /></a>
 <a href="https://upgradedtodo.netlify.app"><img src="https://img.shields.io/badge/Live_demo-06B6D4?style=flat-square&logo=netlify&logoColor=white" alt="Live demo" /></a>
 <img src="https://komarev.com/ghpvc/?username=Mahiisss&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile views" />
-
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="24" align="center" /> About me
 
-<table>
-<tr>
-<td width="62%" valign="middle">
-<p><sub>I'm a full stack developer who enjoys owning a feature from the database to the last pixel: web and mobile apps, the APIs behind them, and AI pipelines that check their answers.</sub></p>
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" width="18" align="center" /> &nbsp;<sub><b>Frontend</b> · React, Next.js, TypeScript, React Native, Tailwind</sub><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" align="center" /> &nbsp;<sub><b>Backend</b> · Node.js, Express, FastAPI, Flask, REST, JWT</sub><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" width="18" align="center" /> &nbsp;<sub><b>Data</b> · PostgreSQL, Supabase, MongoDB, SQLite</sub><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" align="center" /> &nbsp;<sub><b>AI</b> · multi-agent RAG with CrewAI, LangChain, FAISS</sub><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="18" align="center" /> &nbsp;<sub><b>Shipping</b> · Docker, AWS, Vercel, GitHub Actions</sub><br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="18" align="center" /> &nbsp;<sub>B.Tech, <b>NIT Srinagar</b> · open to <b>full stack</b> roles</sub></p>
-</td>
-<td width="38%" align="center" valign="middle">
-<p><img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer coding at a desk" /></p>
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" align="right" alt="Developer coding at a desk" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2" alt="" />
+I'm a full stack developer who enjoys owning a feature from the database to the last pixel: web and mobile apps, the APIs behind them, and AI pipelines that check their answers.
+
+- **Frontend** · React, Next.js, TypeScript, React Native, Tailwind
+- **Backend** · Node.js, Express, FastAPI, Flask, REST, JWT
+- **Data** · PostgreSQL, Supabase, MongoDB, SQLite
+- **AI** · multi-agent RAG with CrewAI, LangChain, FAISS
+- **Shipping** · Docker, AWS, Vercel, GitHub Actions
+- **Education** · B.Tech, NIT Srinagar
+- **Looking for** · full stack developer roles
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center" /> Featured projects
 
@@ -96,7 +91,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" align="center" /> Tech stack
 
@@ -117,7 +112,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="24" align="center" /> GitHub stats
 
