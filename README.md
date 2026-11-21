@@ -35,10 +35,22 @@
 <p><img src="https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/FastAPI-C026D3?style=flat-square&logo=fastapi&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/asyncio-7928CA?style=flat-square" height="18" /> <img src="https://img.shields.io/badge/Webhooks-06B6D4?style=flat-square" height="18" /></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="18" align="center" /> <b><a href="https://github.com/Mahiisss/trade-opportunities-api">Trade Opportunities API</a></b></p>
+<p><sub>Sector-wise market reports for India from live search data, protected with API-key authentication, rate limiting and input validation, with a fallback when the AI service fails.</sub></p>
+<p><img src="https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/FastAPI-C026D3?style=flat-square&logo=fastapi&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/SlowAPI-7928CA?style=flat-square" height="18" /> <img src="https://img.shields.io/badge/Gemini-06B6D4?style=flat-square&logo=googlegemini&logoColor=white" height="18" /></p>
+</td>
+<td width="50%" valign="top">
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" width="18" align="center" /> <b><a href="https://github.com/Mahiisss/youtube-offline-summarizer">Offline YouTube Summarizer</a></b></p>
+<p><sub>Fully offline pipeline: downloads a video's audio, transcribes it with Whisper, cleans the text and summarises it with BART, run end to end by one PowerShell script.</sub></p>
+<p><img src="https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/PowerShell-C026D3?style=flat-square&logo=powershell&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Whisper-7928CA?style=flat-square" height="18" /> <img src="https://img.shields.io/badge/Hugging_Face-06B6D4?style=flat-square&logo=huggingface&logoColor=white" height="18" /></p>
+</td>
+</tr>
 </table>
 
 <details>
-<summary><b>More projects</b> <sub>(10 more: APIs, AI tools, mobile and data)</sub></summary>
+<summary><b>More projects</b> <sub>(8 more: APIs, AI tools, mobile and data)</sub></summary>
 
 <br/>
 
@@ -47,9 +59,7 @@
 | <sub>[Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api)</sub> | <sub>Posts, hashtags, follows, likes and personalized feeds</sub> | <sub>Express, TypeScript, TypeORM</sub> |
 | <sub>[AI Todo PWA](https://github.com/Mahiisss/ai-todo-app)</sub> | <sub>Installable todo app that works offline · [live ↗](https://upgradedtodo.netlify.app)</sub> | <sub>React, Vite, Tailwind</sub> |
 | <sub>[Entrevista](https://github.com/Mahiisss/entrevista)</sub> | <sub>Note-sharing platform for students, with tags, dashboards and JWT + bcrypt login</sub> | <sub>Next.js, Redux, MongoDB</sub> |
-| <sub>[Trade Opportunities API](https://github.com/Mahiisss/trade-opportunities-api)</sub> | <sub>Sector-wise market reports from live search, with rate limiting and API keys</sub> | <sub>FastAPI, Gemini</sub> |
 | <sub>[Todo App](https://github.com/Mahiisss/Todo-App)</sub> | <sub>iOS and Android task manager that works offline</sub> | <sub>React Native, Expo</sub> |
-| <sub>[Offline YouTube Summarizer](https://github.com/Mahiisss/youtube-offline-summarizer)</sub> | <sub>On-device Whisper → BART video summaries, no cloud APIs</sub> | <sub>Python, Whisper</sub> |
 | <sub>[Sentiment Analysis](https://github.com/Mahiisss/Sentiment-Analysis)</sub> | <sub>Five models benchmarked on 70k YouTube comments</sub> | <sub>TensorFlow, BERT</sub> |
 | <sub>[MAHI AI Agent](https://github.com/Mahiisss/MAHI_AI_Agent_Streamlit)</sub> | <sub>Extracts structured fields from PDFs and answers questions about them</sub> | <sub>Streamlit, FAISS</sub> |
 | <sub>[Sorting Visualizer](https://github.com/Mahiisss/sorting-algorithm-visualizer)</sub> | <sub>Sorting algorithms animated step by step · [live ↗](https://s0rting.netlify.app/)</sub> | <sub>JavaScript</sub> |
