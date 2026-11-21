@@ -1,3 +1,37 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,35:7928CA,70:4F46E5,100:06B6D4&height=130&section=header&text=Hi,%20I%27m%20Mahi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Hi, I'm Mahi — Full Stack Developer" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=FF0080&center=true&vCenter=true&width=460&height=22&lines=I+build+products+end+to+end+%E2%9C%A8;React+%C2%B7+Next.js+%C2%B7+React+Native;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Multi-agent+AI+that+checks+its+answers" alt="I build products end to end" />
+<br/>
+<a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mahiiss4455@gmail.com"><img src="https://img.shields.io/badge/Email-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Mahiisss/Splitly"><img src="https://img.shields.io/badge/Latest_project-7928CA?style=flat-square&logo=github&logoColor=white" alt="Latest project" /></a>
+<a href="https://upgradedtodo.netlify.app"><img src="https://img.shields.io/badge/Live_demo-06B6D4?style=flat-square&logo=netlify&logoColor=white" alt="Live demo" /></a>
+<img src="https://komarev.com/ghpvc/?username=Mahiisss&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="24" align="center" /> About me
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" align="right" alt="Developer coding at a desk" />
+
+I'm a full stack developer who enjoys owning a feature from the database to the last pixel: web and mobile apps, the APIs behind them, the tests that keep them working, and AI pipelines that check their answers.
+
+- **Frontend** · React, Next.js, TypeScript, React Native, Tailwind
+- **Backend** · Node.js, Express, FastAPI, Flask, REST, JWT
+- **Data** · PostgreSQL, Supabase, MongoDB, SQLite
+- **AI** · multi-agent RAG with CrewAI, LangChain, FAISS
+- **Testing & shipping** · API test suites, Playwright, GitHub Actions CI, Docker, AWS, Vercel
+- **Education** · B.Tech, NIT Srinagar
+- **Looking for** · full stack, backend and automation roles
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center" /> Featured projects
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -66,3 +100,44 @@
 | <sub>[Superstore Analytics](https://github.com/Mahiisss/Superstore_Analytics_Dashboard-1)</sub> | <sub>Retail dashboard showing segment performance and loss drivers</sub> | <sub>Power BI, SQL</sub> |
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24" align="center" /> Tech stack
+
+<div align="center">
+
+<sub><b>FRONTEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite&perline=9" height="36" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind, Vite" />
+
+<sub><b>BACKEND · DATA · CLOUD</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,flask,postgres,supabase,mongodb,docker,aws,vercel,githubactions,git&perline=13" height="36" alt="Node.js, Express, Python, FastAPI, Flask, PostgreSQL, Supabase, MongoDB, Docker, AWS, Vercel, GitHub Actions, Git" />
+
+<sub><b>AI</b></sub><br/>
+<img src="https://img.shields.io/badge/CrewAI-FF0080?style=flat-square" alt="CrewAI" />
+<img src="https://img.shields.io/badge/LangChain-C026D3?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/FAISS-7928CA?style=flat-square" alt="FAISS" />
+<img src="https://img.shields.io/badge/Hugging_Face-4F46E5?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/TensorFlow-06B6D4?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7928CA,100:06B6D4&height=1&section=header" width="100%" height="1" alt="" />
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="24" align="center" /> GitHub stats
+
+<div align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Mahiisss&show_icons=true&hide_border=true&bg_color=30,1F0A3C,0B1F3A&title_color=FF0080&icon_color=06B6D4&text_color=E9D5FF&ring_color=FF0080&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahiisss&layout=compact&hide_border=true&bg_color=30,1F0A3C,0B1F3A&title_color=FF0080&text_color=E9D5FF&langs_count=6&hide=jupyter%20notebook,makefile" alt="Top languages" />
+  <br/>
+  <img height="140" src="https://streak-stats.demolab.com/?user=Mahiisss&background=45,1F0A3C,0B1F3A&hide_border=true&ring=FF0080&fire=FF0080&currStreakLabel=06B6D4&sideLabels=E9D5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A78BFA&stroke=7928CA" alt="GitHub streak" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=15&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=420&height=26&lines=Let%27s+build+something+together!;Thanks+for+stopping+by+%E2%9C%A8" alt="Let's build something together" /><br/>
+<sub><a href="mailto:mahiiss4455@gmail.com">mahiiss4455@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mahisoni45">LinkedIn</a></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,30:4F46E5,65:7928CA,100:FF0080&height=90&section=footer" width="100%" />
