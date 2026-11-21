@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=FF0080&center=true&vCenter=true&width=460&height=22&lines=I+build+products+end+to+end+%E2%9C%A8;React+%C2%B7+Next.js+%C2%B7+React+Native;Node.js+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Multi-agent+AI+that+checks+its+answers" alt="I build products end to end" />
 <br/>
 <a href="https://www.linkedin.com/in/mahisoni45"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mahiisss4455@gmail.com"><img src="https://img.shields.io/badge/Email-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:mahiiss4455@gmail.com"><img src="https://img.shields.io/badge/Email-FF0080?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Mahiisss/Splitly"><img src="https://img.shields.io/badge/Latest_project-7928CA?style=flat-square&logo=github&logoColor=white" alt="Latest project" /></a>
 <a href="https://upgradedtodo.netlify.app"><img src="https://img.shields.io/badge/Live_demo-06B6D4?style=flat-square&logo=netlify&logoColor=white" alt="Live demo" /></a>
 <img src="https://komarev.com/ghpvc/?username=Mahiisss&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile views" />
@@ -16,15 +16,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" align="right" alt="Developer coding at a desk" />
 
-I'm a full stack developer who enjoys owning a feature from the database to the last pixel: web and mobile apps, the APIs behind them, and AI pipelines that check their answers.
+I'm a full stack developer who enjoys owning a feature from the database to the last pixel: web and mobile apps, the APIs behind them, the tests that keep them working, and AI pipelines that check their answers.
 
 - **Frontend** · React, Next.js, TypeScript, React Native, Tailwind
 - **Backend** · Node.js, Express, FastAPI, Flask, REST, JWT
 - **Data** · PostgreSQL, Supabase, MongoDB, SQLite
 - **AI** · multi-agent RAG with CrewAI, LangChain, FAISS
-- **Shipping** · Docker, AWS, Vercel, GitHub Actions
+- **Testing & shipping** · API test suites, Playwright, GitHub Actions CI, Docker, AWS, Vercel
 - **Education** · B.Tech, NIT Srinagar
-- **Looking for** · full stack developer roles
+- **Looking for** · full stack, backend and automation roles
 
 <br clear="right"/>
 
@@ -64,9 +64,9 @@ I'm a full stack developer who enjoys owning a feature from the database to the 
 <p><img src="https://img.shields.io/badge/Next.js-FF0080?style=flat-square&logo=nextdotjs&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/TypeScript-C026D3?style=flat-square&logo=typescript&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Redux-7928CA?style=flat-square&logo=redux&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/MongoDB-06B6D4?style=flat-square&logo=mongodb&logoColor=white" height="18" /></p>
 </td>
 <td width="50%" valign="top">
-<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="18" align="center" /> <b><a href="https://github.com/Mahiisss/ai-todo-app">AI Todo PWA</a></b> · <a href="https://upgradedtodo.netlify.app"><sub>live ↗</sub></a></p>
-<p><sub>Installable todo app that keeps working offline thanks to service-worker caching, and installs to the home screen like a native app.</sub></p>
-<p><img src="https://img.shields.io/badge/React-FF0080?style=flat-square&logo=react&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Vite-7928CA?style=flat-square&logo=vite&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" height="18" /></p>
+<p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="18" align="center" /> <b><a href="https://github.com/Mahiisss/network-posture-scanner">Network Posture Scanner</a></b></p>
+<p><sub>Finds devices on a network, scans their ports in parallel, runs 10 CIS benchmark security checks and reports results through AWS to a live dashboard.</sub></p>
+<p><img src="https://img.shields.io/badge/Python-FF0080?style=flat-square&logo=python&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/AWS_Lambda-C026D3?style=flat-square&logo=awslambda&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/DynamoDB-7928CA?style=flat-square&logo=amazondynamodb&logoColor=white" height="18" /> <img src="https://img.shields.io/badge/Flask-06B6D4?style=flat-square&logo=flask&logoColor=white" height="18" /></p>
 </td>
 </tr>
 </table>
@@ -79,7 +79,7 @@ I'm a full stack developer who enjoys owning a feature from the database to the 
 | <sub>Project</sub> | <sub>What it does</sub> | <sub>Stack</sub> |
 | :--- | :--- | :--- |
 | <sub>[Social Media Backend API](https://github.com/Mahiisss/Social-media-backend-api)</sub> | <sub>Posts, hashtags, follows, likes and personalized feeds</sub> | <sub>Express, TypeScript, TypeORM</sub> |
-| <sub>[Network Posture Scanner](https://github.com/Mahiisss/network-posture-scanner)</sub> | <sub>Subnet discovery and CIS benchmark checks on a live AWS dashboard</sub> | <sub>Python, AWS Lambda, DynamoDB</sub> |
+| <sub>[AI Todo PWA](https://github.com/Mahiisss/ai-todo-app)</sub> | <sub>Installable todo app that works offline · [live ↗](https://upgradedtodo.netlify.app)</sub> | <sub>React, Vite, Tailwind</sub> |
 | <sub>[Task Automation API](https://github.com/Mahiisss/Task-Automation-API)</sub> | <sub>Chained and batched tasks with retries and webhook triggers</sub> | <sub>FastAPI, asyncio</sub> |
 | <sub>[Trade Opportunities API](https://github.com/Mahiisss/trade-opportunities-api)</sub> | <sub>Sector-wise market reports from live search, with rate limiting and API keys</sub> | <sub>FastAPI, Gemini</sub> |
 | <sub>[Todo App](https://github.com/Mahiisss/Todo-App)</sub> | <sub>iOS and Android task manager that works offline</sub> | <sub>React Native, Expo</sub> |
@@ -126,7 +126,7 @@ I'm a full stack developer who enjoys owning a feature from the database to the 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=15&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=420&height=26&lines=Let%27s+build+something+together!;Thanks+for+stopping+by+%E2%9C%A8" alt="Let's build something together" /><br/>
-<sub><a href="mailto:mahiisss4455@gmail.com">mahiisss4455@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mahisoni45">LinkedIn</a></sub>
+<sub><a href="mailto:mahiiss4455@gmail.com">mahiiss4455@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mahisoni45">LinkedIn</a></sub>
 
 </div>
 
